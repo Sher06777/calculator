@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=Black+Ops+One&family=DM+Serif+Display:ital@1&display=swap');
+
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: 'Black Ops One';
+}
+
+body {
+    background: url('./Math-Wallpaper-HD-Free-download.png');
+    background-color: chartreuse;
+}
+
+.App {
+    padding: 50px;
+    width: 350px;
+    margin: 35vh auto;
+    text-align: center;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    border: 5px solid aqua;
+    border-radius: 50px;
+}
+
+h1 {
+    width: 100%;
+    text-align: center;
+    color: aqua;
+    border: 5px solid aqua;
+    border-radius: 50px;
+
+}
+
+input {
+    background-color: aqua;
+    width: 45%;
+    height: 50px;
+    text-align: center;
+    font-size: larger;
+    border-radius: 50px;
+
+}
+
+.btns {
+    width: 80%;
+    margin: 20px auto;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+}
+
+.btns button {
+    font-size: large;
+    border-radius: 10px;
+    background-color: aqua;
+    width: 100px;
+    margin: 7px;
+}
